@@ -1,0 +1,5 @@
+.svelte-kit
+build
+src-tauri
+assets
+package-lock.json
